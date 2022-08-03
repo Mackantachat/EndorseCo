@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.13.0/css/all.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.select2.select2-container.select2-container--default {
+       position: revert;
+  }
+  .select2-container .select2-selection--single .select2-selection__clear{
+       position: revert;
+  }
+  /* .select2-selection__arrow{
+     position: relative!important;
+  } */
+  /* .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 26px;
+    position: revert!important;
+    top: 1px;
+    right: 1px;
+    width: 20px;
+} */
+
+  /* #litepie  {
+       position:revert!important;
+  } 
+   #litepie > label {
+       position:revert!important;
+  } */
+  /* #litepie > label > input{
+       position:revert!important;
+  } */
